@@ -1,0 +1,43 @@
+.logo {
+    width: 20vw;
+    height: 20vh;
+    margin-left: 40%;
+  }
+  .phone-no {
+    display: flex;
+    justify-content: center;
+  }
+  .image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 50px;
+  }
+  .si {
+    background-color: orange;
+    color: white;
+    border-width: 0px;
+    border-radius: 10px;
+    width: 15vw;
+  }
+  .container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
+  .heading {
+    text-align: center;
+  }
+  .button {
+    display: flex;
+    justify-content: center;
+  }
+  .para {
+    text-align: center;
+  }
+  .para1,
+  .para {
+    text-align: center;
+    font-weight: 100;
+    font-size: 10px;
+  }

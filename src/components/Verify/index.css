@@ -1,0 +1,21 @@
+.logo {
+    width: 20vw;
+    height: 20vh;
+    margin-left: 40%;
+  }
+  .si {
+    background-color: orange;
+    color: white;
+    border-width: 0px;
+    border-radius: 10px;
+    width: 15vw;
+  }
+  .button {
+    display: flex;
+    justify-content: center;
+  }
+  .phone-no {
+    display: flex;
+    justify-content: center;
+  }
+  

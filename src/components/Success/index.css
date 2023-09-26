@@ -1,0 +1,13 @@
+.logo {
+}
+.si {
+  background-color: orange;
+  color: white;
+  border-width: 0px;
+  border-radius: 10px;
+  width: 15vw;
+}
+.button {
+  display: flex;
+  justify-content: center;
+}
